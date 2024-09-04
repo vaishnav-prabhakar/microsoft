@@ -29,7 +29,7 @@ body{
     padding-top: 1.2rem;
 }
 
-img#logo1{
+img #logo1{
     padding-left: 4.5rem; 
     height: 1.5rem;
     padding-top: 0.9rem;
@@ -41,17 +41,17 @@ a.an:hover{
     border-bottom-width: 2px;
 }
 
-img#cart_1{
+img #cart_1{
     width: 23px;
     height: 23px;
 }
-a#ms_1{
+a #ms_1{
     text-decoration: none;
     color: black;
     display: grid;
     flex-wrap: wrap;
 }
-a#ms_1:hover{
+a #ms_1:hover{
     border-bottom-style: solid;
     border-color: rgb(54, 51, 51);
     border-bottom-width: 2px;
@@ -68,7 +68,7 @@ a#ms_1:hover{
     flex-shrink: 0;
 
 }
-svg#down_1 {
+svg #down_1 {
     width: 9px;
     height: 9px;
     margin-top: -30px;
@@ -78,7 +78,7 @@ svg#down_1 {
     flex-wrap: wrap;    
 }
 
-svg#acc_r{
+svg #acc_r{
     width: 52px;
     height: 52px;
     position: relative;
@@ -86,7 +86,7 @@ svg#acc_r{
     margin-top: -14px;
 
 }
-svg#search_1{
+svg #search_1{
     width: 23px;
     height: 23px;
 }
@@ -116,7 +116,7 @@ h4{
     font-size: 1.8rem;
     justify-content: flex-start;
 }
-p#new{
+p #new{
     color: rgb(173, 26, 26);
     font-weight:500;
     padding-left: 1em;
